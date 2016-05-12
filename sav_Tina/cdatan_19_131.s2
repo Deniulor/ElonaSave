@@ -1,36 +1,6 @@
-眼镜王蛇
+刀锋Ω型
 
-snake
-
-
-
-
-
-
-
-＜骑士＞
-
-piece
-warrior
-
-
-
-
-
-
-火蟹
-
-crab
-
-
-
-
-
-
-
-硬汉子
-
-norland
+machine
 predator
 
 
@@ -38,19 +8,9 @@ predator
 
 
 
-混沌之手
+刀锋机兵
 
-hand
-
-
-
-
-
-
-
-混沌之手
-
-hand
+machine
 
 
 
@@ -58,19 +18,9 @@ hand
 
 
 
-＜主教＞
+＜城堡＞
 
 piece
-wizard
-
-
-
-
-
-
-狮子
-
-cat
 predator
 
 
@@ -78,39 +28,49 @@ predator
 
 
 
-眼镜王蛇
+混沌之块
 
-snake
-
-
+spirit
 
 
 
 
 
-死刑执行人
+
+
+刻耳柏洛斯
+
+cerberus
+predator
+
+
+
+
+
+
+刀锋Ω型
+
+machine
+predator
+
+
+
+
+
+
+冰结树
+
+ent
+predator
+
+
+
+
+
+
+巫妖王
 
 lich
-warrior
-
-
-
-
-
-
-甲壳虫
-
-beetle
-predator
-
-
-
-
-
-
-地精魔法师
-
-goblin
 wizard
 
 
@@ -118,387 +78,87 @@ wizard
 
 
 
-地精魔法师
+猛犸
 
-goblin
-wizard
+bear
 
 
 
 
 
 
-地精魔法师
 
-goblin
-wizard
+鸡
 
+chicken
 
 
 
 
 
-地精魔法师
 
-goblin
-wizard
 
+金铃
 
+metal
 
 
 
 
-地精魔法师
 
-goblin
-wizard
 
 
-
-
-
-
-地精战士
-
-goblin
-warrior
-
-
-
-
-
-
-地精战士
-
-goblin
-warrior
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-地精
-
-goblin
-
-
-
-
-
-
-
-＜主教＞
-
-piece
-wizard
-
-
-
-
-
-
-麻痹猎犬
-
-hound
-predator
-
-
-
-
-
-
-＜骑士＞
-
-piece
-warrior
-
-
-
-
-
-
-＜骑士＞
-
-piece
-warrior
-
-
-
-
-
-
-弱酸性史莱姆
-
-slime
-predator
-
-
-
-
-
-
-火焰地龙
-
-drake
-
-
-
-
-
-
-
-眼镜王蛇
-
-snake
-
-
-
-
-
-
-
-眼镜王蛇
-
-snake
-
-
-
-
-
-
-
-＜主教＞
-
-piece
-wizard
-
-
-
-
-
-
-白衣天使 达尔伊加
+佣兵射手 西苏纳尔茨
 
 norland
-wizard
+archer
 
 
 
 
 
 
-南瓜怪物
+佣兵射手 乌尔巴
 
-mandrake
-
-
-
-
-
-
-
-孢子蘑菇
-
-mushroom
+norland
+archer
 
 
 
 
 
 
+佣兵射手 内毕赫摩苏
 
-狮子
-
-cat
-predator
-
-
-
-
-
-
-火蟹
-
-crab
+norland
+archer
 
 
 
 
 
 
+佣兵射手 特姆尼茨库
 
-弱酸性史莱姆
-
-slime
-predator
-
-
-
-
-
-
-怨魂
-
-ghost
+norland
+archer
 
 
 
 
 
 
+佣兵射手 瓦伊格恩
 
-小恶魔
-
-imp
-
-
+norland
+archer
 
 
 
 
 
-地雷侍
+
+佣兵战士 帕茨塔
 
 norland
 warrior
@@ -508,9 +168,349 @@ warrior
 
 
 
-眼镜王蛇
+佣兵魔法师 坦迪奥苏
 
-snake
+norland
+wizard
+
+
+
+
+
+
+佣兵魔法师 毕罗茨库
+
+norland
+wizard
+
+
+
+
+
+
+佣兵战士 伊西尤阿苏
+
+norland
+warrior
+
+
+
+
+
+
+佣兵战士 奥迪伊科尔
+
+norland
+warrior
+
+
+
+
+
+
+佣兵射手 塔伊罗弗
+
+norland
+archer
+
+
+
+
+
+
+佣兵战士 塔伊毕恩
+
+norland
+warrior
+
+
+
+
+
+
+佣兵魔法师 瓦伊纳尔德
+
+norland
+wizard
+
+
+
+
+
+
+佣兵魔法师 艾保浩尔苏
+
+norland
+wizard
+
+
+
+
+
+
+佣兵射手 米西尤塔恩
+
+norland
+archer
+
+
+
+
+
+
+佣兵魔法师 帕哈茨库
+
+norland
+wizard
+
+
+
+
+
+
+佣兵射手 毕恩歌
+
+norland
+archer
+
+
+
+
+
+
+龙蝙蝠
+
+bat
+predator
+
+
+
+
+
+
+斑纹蜘蛛
+
+spider
+
+
+
+
+
+
+
+飞蛙
+
+frog
+tourist
+
+
+
+
+
+
+麻痹蜘蛛
+
+spider
+
+
+
+
+
+
+
+不净之瞳
+
+eye
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
