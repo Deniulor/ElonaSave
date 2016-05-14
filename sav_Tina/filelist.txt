@@ -45,8 +45,6 @@ cdatan_3_114.s2
 cdatan_3_115.s2
 cdatan_3_116.s2
 cdatan_3_117.s2
-cdatan_467_147.s2
-cdatan_467_148.s2
 cdatan_4_101.s2
 cdatan_5_101.s2
 cdatan_5_103.s2
@@ -101,8 +99,6 @@ cdata_3_114.s2
 cdata_3_115.s2
 cdata_3_116.s2
 cdata_3_117.s2
-cdata_467_147.s2
-cdata_467_148.s2
 cdata_4_101.s2
 cdata_5_101.s2
 cdata_5_103.s2
@@ -157,8 +153,6 @@ inv_3_114.s2
 inv_3_115.s2
 inv_3_116.s2
 inv_3_117.s2
-inv_467_147.s2
-inv_467_148.s2
 inv_4_101.s2
 inv_5_101.s2
 inv_5_103.s2
@@ -213,8 +207,6 @@ map_3_114.s2
 map_3_115.s2
 map_3_116.s2
 map_3_117.s2
-map_467_147.s2
-map_467_148.s2
 map_4_101.s2
 map_5_101.s2
 map_5_103.s2
@@ -269,8 +261,6 @@ mdatan_3_114.s2
 mdatan_3_115.s2
 mdatan_3_116.s2
 mdatan_3_117.s2
-mdatan_467_147.s2
-mdatan_467_148.s2
 mdatan_4_101.s2
 mdatan_5_101.s2
 mdatan_5_103.s2
@@ -325,8 +315,6 @@ mdata_3_114.s2
 mdata_3_115.s2
 mdata_3_116.s2
 mdata_3_117.s2
-mdata_467_147.s2
-mdata_467_148.s2
 mdata_4_101.s2
 mdata_5_101.s2
 mdata_5_103.s2
@@ -381,8 +369,6 @@ mef_3_114.s2
 mef_3_115.s2
 mef_3_116.s2
 mef_3_117.s2
-mef_467_147.s2
-mef_467_148.s2
 mef_4_101.s2
 mef_5_101.s2
 mef_5_103.s2
@@ -437,8 +423,6 @@ sdata_3_114.s2
 sdata_3_115.s2
 sdata_3_116.s2
 sdata_3_117.s2
-sdata_467_147.s2
-sdata_467_148.s2
 sdata_4_101.s2
 sdata_5_101.s2
 sdata_5_103.s2
