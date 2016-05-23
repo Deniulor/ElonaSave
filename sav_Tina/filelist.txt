@@ -184,6 +184,7 @@ sdata_7_101.s2
 sdata_7_102.s2
 shop1001.s2
 shop1002.s2
+shop1003.s2
 shop1007.s2
 shop1010.s2
 shop1303.s2
