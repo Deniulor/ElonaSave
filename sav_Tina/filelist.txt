@@ -208,6 +208,9 @@ shop1014.s2
 shop1303.s2
 shop1313.s2
 shop1323.s2
+shop1325.s2
+shop1326.s2
+shop1327.s2
 shop4.s2
 shop5.s2
 shop6.s2
