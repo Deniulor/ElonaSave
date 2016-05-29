@@ -1,34 +1,4 @@
-调酒师 加恩达
-
-norland
-gunner
-
-
-
-
-
-
-治疗师 茨查尔德
-
-norland
-warrior
-
-
-
-
-
-
-竞技场主人 瓦古巴尔德
-
-norland
-warrior
-
-
-
-
-
-
-历史学者『艾利索缇亚』
+烦恼的魔法师『雷托』
 
 norland
 wizard
@@ -38,7 +8,7 @@ wizard
 
 
 
-扭怩作态的『米亚』
+清扫人『巴尔扎克』
 
 norland
 
@@ -48,27 +18,17 @@ norland
 
 
 
-帕罗米亚少将『科内利安』
+魔法师公会的守卫『莱库萨斯』
 
 norland
-warrior
+wizard
 
 
 
 
 
 
-清扫员 古罗尔德
-
-norland
-gunner
-
-
-
-
-
-
-清扫员 莱巴纳茨库
+清扫员 齐由瓦尔德
 
 norland
 gunner
@@ -78,7 +38,7 @@ gunner
 
 
 
-吟游诗人 摩弗安尔
+吟游诗人 库塔保苏
 
 juere
 pianist
@@ -88,57 +48,47 @@ pianist
 
 
 
-银猫 艾利奥兹
+吟游诗人 齐尤拉尔德
 
-cat
-
-
-
-
-
-
-
-杂货店的店主 拉伊阿
-
-norland
-gunner
+juere
+pianist
 
 
 
 
 
 
-旅馆的店主 伊弗诺尔德
+吟游诗人 乌巴姆
 
-norland
-gunner
-
-
-
-
-
-
-万事屋的店主 科尔哈尔特
-
-norland
-gunner
+juere
+pianist
 
 
 
 
 
 
-武器店的店主 库塔艾苏
+吟游诗人 尼科罗伊
 
-norland
-gunner
-
-
+juere
+pianist
 
 
 
 
-面包屋的店主 齐尤弗尔加
+
+
+吟游诗人 达尔雅
+
+juere
+pianist
+
+
+
+
+
+
+调酒师 达伊内尔
 
 norland
 gunner
@@ -148,7 +98,57 @@ gunner
 
 
 
-魔法店的魔法师 博尔伊恩
+治疗师 尤罗尔茨
+
+norland
+warrior
+
+
+
+
+
+
+杂货店的店主 艾恩达
+
+norland
+gunner
+
+
+
+
+
+
+旅馆的店主 阿萨恩达尔
+
+norland
+gunner
+
+
+
+
+
+
+武器店的店主 奥博德
+
+norland
+gunner
+
+
+
+
+
+
+面包屋的店主 鲍博茨特
+
+norland
+gunner
+
+
+
+
+
+
+魔法店的魔法师 鲍罗尔茨
 
 norland
 wizard
@@ -158,7 +158,7 @@ wizard
 
 
 
-交易店的店主 艾罗奥苏
+交易店的店主 内尔弗奥恩
 
 norland
 gunner
@@ -168,27 +168,7 @@ gunner
 
 
 
-帕罗米亚王妃『斯塔莎』
-
-norland
-warrior
-
-
-
-
-
-
-蝎王
-
-centipede
-
-
-
-
-
-
-
-帕罗米亚城镇区的长老 兹西艾拉
+钓具店的店主 玛罗茨塔
 
 norland
 gunner
@@ -198,7 +178,17 @@ gunner
 
 
 
-工会的训练师 内毕德卡尔
+鲁米艾斯特的长老 坦弗安苏
+
+norland
+gunner
+
+
+
+
+
+
+工会的训练师 乌拉弗奥恩
 
 norland
 warrior
@@ -208,7 +198,7 @@ warrior
 
 
 
-魔法师 坦基恩
+魔法师 奥博伊加
 
 norland
 wizard
@@ -218,7 +208,7 @@ wizard
 
 
 
-情报商 加索尼尔
+情报商 库弗萨米尔
 
 norland
 warrior
@@ -228,97 +218,7 @@ warrior
 
 
 
-守卫 玛博尔库
-
-yerles
-archer
-
-
-
-
-
-
-守卫 坦奥齐苏
-
-yerles
-archer
-
-
-
-
-
-
-守卫 利帕恩
-
-yerles
-archer
-
-
-
-
-
-
-守卫 纳巴茨塔
-
-yerles
-archer
-
-
-
-
-
-
-守卫 特尔格恩
-
-yerles
-archer
-
-
-
-
-
-
-守卫 基兹罗
-
-yerles
-archer
-
-
-
-
-
-
-守卫 奥尔奥苏
-
-yerles
-archer
-
-
-
-
-
-
-守卫 卡伊赫摩苏
-
-yerles
-archer
-
-
-
-
-
-
-守卫 艾罗雅苏
-
-yerles
-archer
-
-
-
-
-
-
-市民 索迪伊恩
+市民 利杰苏
 
 yerles
 warrior
@@ -328,7 +228,7 @@ warrior
 
 
 
-市民 哈伊诺尔特
+市民 拉伊奥纳尔德
 
 yerles
 warrior
@@ -338,7 +238,7 @@ warrior
 
 
 
-市民 萨玛迪伊
+市民 尼科奥恩
 
 yerles
 warrior
@@ -348,7 +248,7 @@ warrior
 
 
 
-市民 科布达恩
+市民 玛西艾拉
 
 yerles
 warrior
@@ -358,7 +258,7 @@ warrior
 
 
 
-市民 萨吉拉弗
+市民 伊西尤罗古
 
 yerles
 warrior
@@ -368,7 +268,7 @@ warrior
 
 
 
-市民 萨伊优恩
+市民 姆浩尔库
 
 yerles
 warrior
@@ -378,7 +278,7 @@ warrior
 
 
 
-市民 特姆迪伊苏
+市民 纳泽阿库
 
 yerles
 warrior
@@ -388,7 +288,7 @@ warrior
 
 
 
-市民 卡恩查塔玛
+市民 艾德纳伊尔
 
 yerles
 warrior
@@ -398,7 +298,7 @@ warrior
 
 
 
-市民 乌科尔德
+市民 瓦古弗奥尔苏
 
 yerles
 warrior
@@ -408,7 +308,7 @@ warrior
 
 
 
-市民 阿内迪伊
+市民 赫尔艾伊苏
 
 yerles
 warrior
@@ -418,7 +318,27 @@ warrior
 
 
 
-守卫 瓦歌苏
+市民 西亚达尔
+
+yerles
+warrior
+
+
+
+
+
+
+市民 西萨莱尔
+
+yerles
+warrior
+
+
+
+
+
+
+守卫 杰保尔
 
 yerles
 archer
@@ -428,7 +348,7 @@ archer
 
 
 
-守卫 乌利恩科
+守卫 米诺尔
 
 yerles
 archer
@@ -438,7 +358,7 @@ archer
 
 
 
-守卫 艾瓦尔德
+守卫 歌尔姆苏
 
 yerles
 archer
@@ -448,7 +368,7 @@ archer
 
 
 
-守卫 艾利苏恩歌
+守卫 弗安博茨特
 
 yerles
 archer
@@ -458,7 +378,77 @@ archer
 
 
 
-城里的小孩 艾利苏迪奥苏
+守卫 诺德卡尔
+
+yerles
+archer
+
+
+
+
+
+
+守卫 歌尔奥恩
+
+yerles
+archer
+
+
+
+
+
+
+守卫 茨索尔
+
+yerles
+archer
+
+
+
+
+
+
+艺术家 西兹利尔茨
+
+norland
+wizard
+
+
+
+
+
+
+艺术家 塔奥内茨库
+
+norland
+wizard
+
+
+
+
+
+
+艺术家 拉科尔德
+
+norland
+wizard
+
+
+
+
+
+
+佣兵
+
+norland
+warrior
+
+
+
+
+
+
+乞丐 尼科帕恩
 
 norland
 tourist
@@ -478,17 +468,37 @@ warrior
 
 
 
-贵族 特米萨恩德
+艺术家 弗安弗奥恩
 
 norland
-warrior
+wizard
 
 
 
 
 
 
-城里的小孩 阿莱杰苏
+城里的小孩 塔伊恩索尔
+
+norland
+tourist
+
+
+
+
+
+
+艺术家 阿内茨库
+
+norland
+wizard
+
+
+
+
+
+
+乞丐 乌尔皮恩
 
 norland
 tourist
@@ -498,20 +508,80 @@ tourist
 
 
 
-贵族 伊布查苏塔恩
+艺术家 凯茨特
 
 norland
-warrior
+wizard
 
 
 
 
 
 
-城里的小孩 弗莱伊纳尔特
+城里的小孩 鲍克伊罗
 
 norland
 tourist
+
+
+
+
+
+
+艺术家 特姆恩巴
+
+norland
+wizard
+
+
+
+
+
+
+艺术家 阿莱库齐恩
+
+norland
+wizard
+
+
+
+
+
+
+艺术家 卡查鲁特
+
+norland
+wizard
+
+
+
+
+
+
+艺术家 萨尔尼茨库
+
+norland
+wizard
+
+
+
+
+
+
+城里的小孩 奥尔毕尔
+
+norland
+tourist
+
+
+
+
+
+
+艺术家 奥伊利阿
+
+norland
+wizard
 
 
 
@@ -528,6 +598,56 @@ warrior
 
 
 
+艺术家 罗博尔特
+
+norland
+wizard
+
+
+
+
+
+
+艺术家 奥伊利茨库
+
+norland
+wizard
+
+
+
+
+
+
+乞丐 杰萨米尔
+
+norland
+tourist
+
+
+
+
+
+
+老人 莱米茨库
+
+norland
+tourist
+
+
+
+
+
+
+艺术家 奥兹艾茨塔
+
+norland
+wizard
+
+
+
+
+
+
 佣兵
 
 norland
@@ -538,180 +658,60 @@ warrior
 
 
 
-佣兵
 
-norland
-warrior
 
 
 
 
 
 
-乞丐 普巴尔古
 
-norland
-tourist
 
 
 
 
 
 
-佣兵
 
-norland
-warrior
 
 
 
 
 
 
-贵族 科布莱伊
 
-norland
-warrior
 
 
 
 
 
 
-贵族 尼苏达尔
 
-norland
-warrior
 
 
 
 
 
 
-老人 歌尔茨卡尔
 
-norland
-tourist
 
 
 
 
 
 
-城里的小孩 玛恩索尔
 
-norland
-tourist
 
 
 
 
 
 
-乞丐 毕博尔库
 
-norland
-tourist
 
 
 
 
-
-
-老人 乌拉拉尔加
-
-norland
-tourist
-
-
-
-
-
-
-贵族 罗巴莱伊
-
-norland
-warrior
-
-
-
-
-
-
-贵族 拉伊伊努
-
-norland
-warrior
-
-
-
-
-
-
-贵族 齐亚皮恩
-
-norland
-warrior
-
-
-
-
-
-
-贵族 卡巴内尔
-
-norland
-warrior
-
-
-
-
-
-
-贵族 迪尔弗奥苏
-
-norland
-warrior
-
-
-
-
-
-
-乞丐 拉伊奥毕尔
-
-norland
-tourist
-
-
-
-
-
-
-贵族 皮纳尔德
-
-norland
-warrior
-
-
-
-
-
-
-老人 西尔塔恩
-
-norland
-tourist
-
-
-
-
-
-
-丝西娜
-
-medusa
-warmage
 
 
 
