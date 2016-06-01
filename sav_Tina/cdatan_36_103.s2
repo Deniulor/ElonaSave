@@ -1,6 +1,36 @@
-阴影
+魔法师公会的会长『莱布拉斯』
 
-orc
+norland
+wizard
+
+
+
+
+
+
+魔法书作家的魔法师 索哈尔德
+
+norland
+wizard
+
+
+
+
+
+
+魔法店的魔法师 尼科奥苏
+
+norland
+wizard
+
+
+
+
+
+
+治疗师 艾保弗奥尔
+
+norland
 warrior
 
 
@@ -8,9 +38,9 @@ warrior
 
 
 
-兽人战士
+工会的训练师 乌萨米尔
 
-orc
+norland
 warrior
 
 
@@ -18,441 +48,629 @@ warrior
 
 
 
+魔法师 尼苏
 
+norland
+wizard
 
 
 
 
 
 
+魔法师公会 萨达尔
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 艾伊达苏
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 歌尔鲁苏
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 乌巴博尔特
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 基兹罗尔古
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 歌弗伊尔
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 弗艾博阿
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 库基恩
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 西苏阿茨塔
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 西苏罗尔
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 卡弗奥苏
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 库奥茨塔
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 西摩西尤
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 诺罗基恩
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 阿巴
 
+eulderna
+wizard
 
 
 
 
 
 
+魔法师公会 乌雅恩
 
+eulderna
+wizard
 
 
 
 
 
 
+市民 利杰苏
 
+yerles
+warrior
 
 
 
 
 
 
+市民 拉伊奥纳尔德
 
+yerles
+warrior
 
 
 
 
 
 
+市民 尼科奥恩
 
+yerles
+warrior
 
 
 
 
 
 
+市民 玛西艾拉
 
+yerles
+warrior
 
 
 
 
 
 
+市民 伊西尤罗古
 
+yerles
+warrior
 
 
 
 
 
 
+市民 姆浩尔库
 
+yerles
+warrior
 
 
 
 
 
 
+市民 纳泽阿库
 
+yerles
+warrior
 
 
 
 
 
 
+市民 艾德纳伊尔
 
+yerles
+warrior
 
 
 
 
 
 
+市民 瓦古弗奥尔苏
 
+yerles
+warrior
 
 
 
 
 
 
+市民 赫尔艾伊苏
 
+yerles
+warrior
 
 
 
 
 
 
+市民 西亚达尔
 
+yerles
+warrior
 
 
 
 
 
 
+市民 西萨莱尔
 
+yerles
+warrior
 
 
 
 
 
 
+守卫 杰保尔
 
+yerles
+archer
 
 
 
 
 
 
+守卫 米诺尔
 
+yerles
+archer
 
 
 
 
 
 
+守卫 歌尔姆苏
 
+yerles
+archer
 
 
 
 
 
 
+守卫 弗安博茨特
 
+yerles
+archer
 
 
 
 
 
 
+守卫 诺德卡尔
 
+yerles
+archer
 
 
 
 
 
 
+守卫 歌尔奥恩
 
+yerles
+archer
 
 
 
 
 
 
+守卫 茨索尔
 
+yerles
+archer
 
 
 
 
 
 
+艺术家 西兹利尔茨
 
+norland
+wizard
 
 
 
 
 
 
+艺术家 塔奥内茨库
 
+norland
+wizard
 
 
 
 
 
 
+艺术家 拉科尔德
 
+norland
+wizard
 
 
 
 
 
 
+佣兵
 
+norland
+warrior
 
 
 
 
 
 
+乞丐 尼科帕恩
 
+norland
+tourist
 
 
 
 
 
 
+佣兵
 
+norland
+warrior
 
 
 
 
 
 
+艺术家 弗安弗奥恩
 
+norland
+wizard
 
 
 
 
 
 
+城里的小孩 塔伊恩索尔
 
+norland
+tourist
 
 
 
 
 
 
+艺术家 阿内茨库
 
+norland
+wizard
 
 
 
 
 
 
+乞丐 乌尔皮恩
 
+norland
+tourist
 
 
 
 
 
 
+艺术家 凯茨特
 
+norland
+wizard
 
 
 
 
 
 
+城里的小孩 鲍克伊罗
 
+norland
+tourist
 
 
 
 
 
 
+艺术家 特姆恩巴
 
+norland
+wizard
 
 
 
 
 
 
+艺术家 阿莱库齐恩
 
+norland
+wizard
 
 
 
 
 
 
+艺术家 卡查鲁特
 
+norland
+wizard
 
 
 
 
 
 
+艺术家 萨尔尼茨库
 
+norland
+wizard
 
 
 
 
 
 
+城里的小孩 奥尔毕尔
 
+norland
+tourist
 
 
 
 
 
 
+艺术家 奥伊利阿
 
+norland
+wizard
 
 
 
 
 
 
+佣兵
 
+norland
+warrior
 
 
 
 
 
 
+艺术家 罗博尔特
 
+norland
+wizard
 
 
 
 
 
 
+艺术家 奥伊利茨库
 
+norland
+wizard
 
 
 
 
 
 
+乞丐 杰萨米尔
 
+norland
+tourist
 
 
 
 
 
 
+老人 莱米茨库
 
+norland
+tourist
 
 
 
 
 
 
+艺术家 奥兹艾茨塔
 
+norland
+wizard
 
 
 
 
 
 
+佣兵
 
+norland
+warrior
 
 
 
 
 
 
+耶鲁士自行火炮
 
+yerles
+gunner
 
 
 
 
 
 
+胡蜂
 
+wasp
 
 
 
@@ -460,228 +678,10 @@ warrior
 
 
 
+＜主教＞
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+piece
+wizard
 
 
 
