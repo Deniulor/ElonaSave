@@ -457,6 +457,8 @@ shop1338.s2
 shop1339.s2
 shop1340.s2
 shop1341.s2
+shop1342.s2
+shop1343.s2
 shop4.s2
 shop5.s2
 shop6.s2
