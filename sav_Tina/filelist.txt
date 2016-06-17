@@ -268,6 +268,7 @@ shop1002.s2
 shop1003.s2
 shop1007.s2
 shop1010.s2
+shop1012.s2
 shop1014.s2
 shop1303.s2
 shop1313.s2
@@ -296,6 +297,10 @@ shop1345.s2
 shop1346.s2
 shop1347.s2
 shop1348.s2
+shop1349.s2
+shop1350.s2
+shop1351.s2
+shop1352.s2
 shop4.s2
 shop5.s2
 shop6.s2
